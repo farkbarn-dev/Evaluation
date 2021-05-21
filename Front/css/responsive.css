@@ -30,5 +30,8 @@
 
 
 @media only screen and (max-width: 750px) {
-  
+  .sectel{width: 90%;float: left;margin-top: 300px;margin-left: 100px;}
+  .main{width: 100%;float: left;}
+  .col{height: 500px;}
+  .AreDes{width: 50%;margin-left: 100px;}
 }
